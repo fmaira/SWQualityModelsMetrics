@@ -1,7 +1,7 @@
 # SWQualityModelsMetrics
-Table used to write a thesis about software quality, models and metrics. It includes information about the most popular model and metrics taken from several papers. 
-The list of papers analysed to write the thesis is included in the first sheet (ListOfPapers), and a list of useful link is available in Full_List.
-Table has in the coloumn the list of papers analysed, and for each of it in the row matches the content.
-Model_ and Metric_Papers show if a model or metrics is mentioned in a specific paper.
-Attributes shows if a factor belongs to a model.
-Data has been used to validate information.
+The folder containes a survey about software quality models and metrics, a table, and the presentation.
+The table collects information about the most popular model and metrics retrieved from several texts. 
+The list of papers analysed (and relating links) is included in the first sheet (ListOfPapers).
+The sheet Table collects data for each model/metric retrived in each paper.
+Model_Papers and Metric_Papers show if a model or metrics is mentioned/described in a specific paper.
+A list of additional links is available in Full_List.
